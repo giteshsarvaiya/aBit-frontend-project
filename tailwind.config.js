@@ -31,6 +31,11 @@ module.exports = {
       }
       // ...
     },
+    fontFamily: {
+      "inter": "Inter",
+      "reckless-neue": "Reckless Neue",
+      "gloria-hallelujah": "'Gloria Hallelujah'",
+    },
   },
   darkMode: "class",
   plugins: [nextui()],

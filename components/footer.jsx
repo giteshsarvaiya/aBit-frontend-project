@@ -11,7 +11,7 @@ export const Footer = () => {
               <p className="text-black-900 font-bold text-2xl pb-4"> aBit </p>
             </div>
             <div className="text-black-900 md:text-xl text-sm">
-              <p className="text-center">
+              <p className="text-center font-reckless-neue">
                 Changing the way in which <br />
                 creators and fans interact.
               </p>
