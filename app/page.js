@@ -20,6 +20,7 @@ export default function Home() {
             <div className="z-10 absolute md:left-[5vw] md:top-[50vh] left-[8vw] top-[30vh]">
               <div className="flex w-20 md:w-[450px] md:h-40 h-30 rounded-xl bg-gray-500 ">
                 <div>
+                  
                   <img
                     className="md:h-40 md:w-[220px] h-30 w-20 z-10 bg-cover rounded-xl border-2 md:rounded-tl-xl md:rounded-tr-none md:rounded-br-none md:border-l-0 md:border-t-0 md:border-b-0 md:rounded-bl-xl border-r-2"
                     src="https://i.ibb.co/VMHSgjc/dp.jpg"
